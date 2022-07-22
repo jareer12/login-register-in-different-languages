@@ -1,2 +1,10 @@
-# login register in different languages
- 
+# Login & Register in Different Programming Languages
+
+## Languages
+
+- Python
+- C++
+- PHP
+- Lua
+- Dart
+- Javascript/Typescript
